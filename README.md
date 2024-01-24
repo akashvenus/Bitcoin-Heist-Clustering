@@ -6,6 +6,6 @@ Implemented clustering algorithms:
 - Hierarchical Agglomerative Clustering
 - DBSCAN
 
-  Evaluation metric:
-  - Silhouette score
+Evaluation metric:
+- Silhouette score
   
