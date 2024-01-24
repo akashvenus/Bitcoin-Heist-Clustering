@@ -7,5 +7,5 @@ Implemented clustering algorithms:
 - DBSCAN
 
   Evaluation metric:
-  -Silhouette score
+  - Silhouette score
   
